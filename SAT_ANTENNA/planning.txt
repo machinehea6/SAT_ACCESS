@@ -1,0 +1,14 @@
+Objective: Pull images from NOAA satellites orbiting Earth. 
+Satellites: NOAA-15,18,19
+Sat tracking: https://www.n2yo.com/
+Steps: 
+- Identify broadcast frequency 
+- Design antenna for reception 
+- Acquire compatible SDR 
+- Identify software suite
+- Identify period of orbit and windows of access for the satellites. 
+
+Broadcast frequencies: 
+- 137.9125 MHz (NOAA 18)
+- 137.100 MHz (NOAA 19)
+- 137.620 MHz (NOAA 15)
