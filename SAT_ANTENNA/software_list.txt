@@ -1,0 +1,7 @@
+Software:
+- Image processing on arch linux: SatDump
+- SDR software recommended: sdr# or sddr++ 
+
+
+Useful guides: 
+
