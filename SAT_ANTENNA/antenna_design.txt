@@ -1,0 +1,7 @@
+Research 9-6: 
+- Dipole antenna is the way to go most likely 
+- Initially it seem's it's best to fabricate one with aluminum bars and PVC/3D printer
+
+Research 9-8: 
+- Dipole with RTL-SDR should work perfectly fine 
+- Will simply need to calibrate length appropriately. 
