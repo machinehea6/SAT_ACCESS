@@ -42,4 +42,4 @@ Repo to track and store progress on NOAA satellite access.
   recent satellite images
 
 # Results:
-! [first successful image!](https://github.com/machinehea6/SAT_ACCESS/blob/main/results/IMG_6086.jpeg?raw=true)
+![first successful image!](https://github.com/machinehea6/SAT_ACCESS/blob/main/results/IMG_6086.jpeg?raw=true)
