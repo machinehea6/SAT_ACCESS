@@ -2,6 +2,7 @@
 Repo to track and store progress on NOAA satellite access.
 
 #PHASE 1:
+
 **Goals:**
 1. sat access
 - Configure a RTL-SDR and necessary software suite to capture images from passing NOAA satellites. 
@@ -15,7 +16,8 @@ Repo to track and store progress on NOAA satellite access.
 - I will use a standard junk laptop with debian (blech) and the software suite and climb the mountain
   to receive images each and every time that I want to do so. 
 
-#PHASE 2: 
+#PHASE 2:
+
 **Goals:** 
 1. long term NOAA 15, 18 & 19 sat access
 - I will create a solar powered raspberry pi satellite downlink station on the mountain running sdrpp
@@ -29,7 +31,8 @@ Repo to track and store progress on NOAA satellite access.
 - I will write an API in rust which will enable me to access the data pulled as required 
   and store it. This will entail cron-job automation of sat downlink operation and image parsing
 
-#PHASE 3?: 
+#PHASE 3?:
+
 **Goals:** 
 1. creating a weather station at the college
 - expanding the mountain satellite downlink to include a suite of weather instruments piped through 
