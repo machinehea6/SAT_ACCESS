@@ -40,3 +40,6 @@ Repo to track and store progress on NOAA satellite access.
 - this will entail either writing an api or finding another method to transmit the data to a local server
 2. create a display in the science building for visitors and students to see live weather and most 
   recent satellite images
+
+# Results:
+[first successful image!](SAT_ACCES/results/IMG_6086.jpeg)
