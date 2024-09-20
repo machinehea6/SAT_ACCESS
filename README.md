@@ -13,7 +13,7 @@ Repo to track and store progress on NOAA satellite access.
   the reception site on the saddle of the mountain to be able to access my home dir
 
 **Methods:** 
-- I will use a standard junk laptop with debian (blech) and the software suite and climb the mountain
+- I will use a standard junk laptop with debian (blech) and the software suite then climb the mountain
   to receive images each and every time that I want to do so. 
 
 # PHASE 2:
