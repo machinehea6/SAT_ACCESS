@@ -43,3 +43,4 @@ Repo to track and store progress on NOAA satellite access.
 
 # Results:
 <img src="https://github.com/machinehea6/SAT_ACCESS/blob/main/results/IMG_6086.jpeg?raw=true" width="400" />
+<img src="https://github.com/machinehea6/SAT_ACCESS/blob/main/results/avhrr_3_APT_channel_A.png?raw=true" width="400" />
