@@ -1,0 +1,10 @@
+Guide: https://www.rtl-sdr.com/rtl-sdr-com-goes-16-17-and-gk-2a-weather-satellite-reception-comprehensive-tutorial/
+
+Hardware: 
+- RTL-SDR V4
+- LNA (SAWbird+)
+- 2.4 Ghz parabolic dish grid antenna
+- A mount for the aforementioned antenna
+- Coax adapter
+- Low loss coax 
+- Total budget ~$350

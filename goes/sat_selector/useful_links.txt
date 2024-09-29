@@ -1,0 +1,6 @@
+- for selecting the satellite I will use the noaa website to find the ideal target sat to cover
+ 	my desired region. 
+the website: https://www.ospo.noaa.gov/operations/goes/schedules.html
+
+- so far it seems like GOES-16 or GOES-14 is the way to go. GOES 14 gives a head on view of the US
+	whereas 16 skews east.  

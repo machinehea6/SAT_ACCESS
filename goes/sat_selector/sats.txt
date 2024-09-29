@@ -1,0 +1,11 @@
+GOES-14:
+Downlink: 1.7 GHz (can use a 1.7 Ghz antenna)
+Elevation: + 48.5 degrees (geostationary)
+Lat: -.03
+Long: -108.45
+
+GOES-16:
+Downlink: 1.7 GHz (can use a 1.7 Ghz antenna)
+Elevation: +37.5 deg
+Lat: .07
+Long: -75.19

@@ -1,0 +1,11 @@
+Software (Research 9-6):
+- Satellite capture will be achieved via SDR++ and image processing via SatDump
++ Neither of these is natively packaged for arch but there's a sketchy AUR package of SDR++ 
++ Ultimately easier to just throw debian on test-bench laptop
+
+Research 9-8:
+- Compiled both on debian, should work smoothly 
+
+
+Useful guides: 
+
